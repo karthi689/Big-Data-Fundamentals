@@ -2,7 +2,8 @@
 A introductory on Big Data Fundamentals
 
 What makes Data "Big Data"? <br />
-A data set is considered "big data" when it is **too big** or **complex** to be **stored** or **analyzed** by **traditional data systems**.
+A data set is considered "big data" when it is **too big** or **complex** to be **stored** or **analyzed** by **traditional data systems**.<br />
+Big data isn't just a lot of data — it's also a lot of complex data that cannot otherwise be stored in traditional databases.<br />
 &nbsp;
 &nbsp;
 Types of Data?
