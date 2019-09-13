@@ -14,3 +14,13 @@ CSV, YAML and JSON are good examplesof semi-structured data.Most NoSQL databases
 (iii) **Unstructured Data**<br />
      Data that cannot fit neatly into a database, as there is no logical schema or format that can flatten thedata intotextual rows and columns. It can be about anything: text, images, audio, etc. Even pieces of data that have some level of internal structure can still be considered unstructured. Represents about 80% of all data.<br />
 
+3) The 3 V's<br />
+(i) **Volume**: The quantity of the data<br />
+(ii) **Velocity**: How quickly the data is produced<br />
+(iii) **Variety**: How diverse the data is<br />
+
+Extra 4 V's<br />
+(iv) **Veracity**: The reliability of the data source<br />
+(v) **Variability**: How consistent the data values are<br />
+(vi) **Visualization**: How easily the data can be visualized<br />
+(vii) **Value**: The derivability of value from the data.<br />
