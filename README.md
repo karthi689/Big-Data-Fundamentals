@@ -28,3 +28,21 @@ Extra 4 V's<br />
 4) What is Machine Learning?<br />
 A category of artificial intelligence that uses algorithms to analyze data, learn from the data, and then make inferences about the data.<br />
 Mark email as spam or not spam, facial recognition, anomaly detection, credit scoring, etc are good examples of machine learning.<br />
+
+5) What is Data Analytics?<br />
+**Process** and **analyze** data sets to **model** and **communicate** answers to specific questions with **actionable data**.<br />
+**Goals**<br />
+(i) Provide solutions to known unknowns<br />
+(ii) Answer specific questions<br />
+**Skills**<br />
+Statistics, Computer science, AI (Machine Learning, Deep Learning, etc.)<br />
+
+6) What is Data Science?<br />
+A **multi-disciplinary** field that specializes in exposing **insights** from **large data sets**.<br />
+**Goals**<br />
+(i) Understand phenomena<br />
+(ii) Explore unknown unknowns<br />
+(iii) To identify right questions to ask.<br />
+(iv) Find better ways to analyze data.<br />
+**Skills**<br />
+Statistics, Advanced Mathematics, Computer science, AI (Machine Learning, Deep Learning, etc.), Data analysis<br />
